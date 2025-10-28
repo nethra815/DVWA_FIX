@@ -1,0 +1,34 @@
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.pid
+tmp/
+*.tmp
+
+# Environment / secrets
+.env
+*.env
+
+# Python / Node / build artifacts
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
+
+# Database / dumps
+*.sql
+*.sqlite
+*.db
+
+# System swap files
+*.swp
+*.swo
+
+# Keep evidence (screenshots/videos) tracked — don't ignore that folder
+# evidence/
